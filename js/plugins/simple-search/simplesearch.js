@@ -48,7 +48,7 @@
             $(element).show();
             if (parseInt($(element).size()) == 0) {
                 if (settings.emptyMsgHolder != '') {
-                    $(settings.emptyMsgHolder).html();
+                    $(settings.emptyMsgHolder).html(settings.emptyMsg);
                 } else {
                     $('#simplesearch_not_found_text').remove();
                     $(settings.selector).parent().append('<p id="simplesearch_not_found_text" align="center">'+settings.emptyMsg+'</p>');
