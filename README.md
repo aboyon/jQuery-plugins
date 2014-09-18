@@ -8,4 +8,4 @@ Plugins
 
 These are the plug-ins included in this repo. You may find some Javascript examples/plugins that use Sencha/Sencha touch resources as well.
 
-* [.Simplesearch.js](http://davidsilveira.me/scripts/jQuery-plugins/index.html)
+* [.Simplesearch.js](http://static.davidsilveira.me/examples/jQuery-plugins/simplesearch.html)
